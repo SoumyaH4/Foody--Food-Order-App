@@ -1,0 +1,84 @@
+/* style for Header */
+.header{
+   display: flex;
+   justify-content: space-between;
+   border: 1px solid black;
+   /* margin: 2px; */
+}
+.logo{
+   width: 80px; 
+   height: 70px;
+   margin: 10px;
+   
+}
+.navbar {
+   font-size: 20px;
+   padding: 0px 20px;
+}
+.navbar > ul {
+  display: flex;
+  list-style-type: none;
+}
+.navbar > ul > li {
+   padding: 10px;
+   margin: 10px;
+}
+
+/* style for rest-card */
+
+.rest-container{
+   display:flex;
+   flex-wrap: wrap;
+   margin:8px;
+   padding:10px;
+   }
+   
+.rest-card{
+   width: 200px;
+   /* height: 350px; */
+   margin: 5px;
+   padding: 5px;
+   border: 1px solid black;
+}
+
+.rest-card:hover{
+   cursor: pointer;
+   border: 1px solid black;
+}
+
+.search{
+  padding: 10px;
+}
+
+.rest-logo{
+width:90%;
+align-items: center;
+justify-content: center;
+
+}
+
+.search-btn{
+   /* height:20px; */
+   padding:10px;
+   /* margin-top: 18px; */
+   margin: 18px 0px 0px 25px;
+   cursor: pointer;
+}
+
+.shimmer-container{
+   display: flex;
+   flex-wrap: wrap;
+}
+.shimmer-card{
+   width: 200px;
+   background-color: rgb(228, 223, 223);
+}
+
+button > .login{
+   width: 40px;
+   height: 20px;
+}
+
+.search-box{
+   border: 1px solid black;
+}

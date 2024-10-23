@@ -28,8 +28,8 @@ npm start
 
 ## Output
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-<img src="https://github.com/user-attachments/assets/ae4f2c89-cf43-4ece-8d7a-788615289ab8" alt="Home" width="500" />
-<img src="https://github.com/user-attachments/assets/627398c3-ec1d-4c5f-a0bf-f3bd5b55344a" alt="About" width="500" />
-<img src="https://github.com/user-attachments/assets/36cc2eaf-3b8c-458d-8bc8-5d5b59fe90be" alt="Contact" width="500" />
-<img src="https://github.com/user-attachments/assets/9516653b-8c89-4fcf-ace2-1d614727d447" alt="Cart" width="500" />
+<img src="https://github.com/user-attachments/assets/ae4f2c89-cf43-4ece-8d7a-788615289ab8" alt="Home" width="400" />
+<img src="https://github.com/user-attachments/assets/627398c3-ec1d-4c5f-a0bf-f3bd5b55344a" alt="About" width="400" />
+<img src="https://github.com/user-attachments/assets/36cc2eaf-3b8c-458d-8bc8-5d5b59fe90be" alt="Contact" width="400" />
+<img src="https://github.com/user-attachments/assets/9516653b-8c89-4fcf-ace2-1d614727d447" alt="Cart" width="400" />
 </div>
